@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my master degree about **foundations of quantum mechanics.**
 
-- 🌱 I’m currently learning about **data science** and **machine learning.**
+- 🌱 I’m currently learning about **data science**, **data engineering** and **machine learning.**
 
 - 📫 How to reach me: **mazzariandre@gmail.com**
 
