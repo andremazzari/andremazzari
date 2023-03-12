@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm André Saugo Mazzari</h1>
 <h3 align="center">Physicist interested in technology, data, and machine learning.</h3>
 
+- 🔭 **Data Engineer Consultant** at Ernst & Young.
+
 - 🔭 I’m currently working on my master degree about **foundations of quantum mechanics.**
 
-- 🌱 I’m currently learning about **data science**, **data engineering** and **machine learning.**
+- 🌱 Learning about **data science**, **data engineering** and **machine learning.**
 
 - 📫 How to reach me: **mazzariandre@gmail.com**
 
