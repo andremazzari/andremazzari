@@ -3,7 +3,7 @@
 
 - 🔭 **Data Engineer Consultant** at Ernst & Young.
 
-- 🔭 I’m currently working on my master degree about **foundations of quantum mechanics.**
+- 🔭 I’m currently working on my master's degree about **foundations of quantum mechanics.**
 
 - 🌱 Learning about **data science**, **data engineering** and **machine learning.**
 
