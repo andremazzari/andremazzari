@@ -5,7 +5,7 @@
 
 - 🔭 Master's in Physics in the field of **foundations of quantum physics.**
 
-- 🌱 Learning about **data science**, **data engineering** and **machine learning.**
+- 🌱 Learning about **data engineering**, **software engineering** and **machine learning.**
 
 - 📫 How to reach me: **mazzariandre@gmail.com**
 
