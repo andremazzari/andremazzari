@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Saugo Mazzari</h1>
-<h3 align="center">Physicist interested in technology, data, and machine learning.</h3>
+<h3 align="center">Data Engineer</h3>
 
-- 🔭 **Data Engineer Consultant** at Ernst & Young.
+- 🔭 **Data Engineer Consultant** at NTT DATA.
 
 - 🔭 Master's in Physics in the field of **foundations of quantum physics.**
 
